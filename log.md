@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+Day One [8 April 2020] - Completed Computer Basics, How The Internet Works while doing review work to sharpen my knowledge of the basics before jumping back into intensively learning Java, either through Team Treehouse - currently - (!https://teamtreehouse.com/tracks/digital-literacy) or Thinkful - eventually - (!https://www.thinkful.com/).
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Day Two [9 April 2020 (GOAL)] - Finish Digital Literacy Course on Team Treehouse.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Day Three [10 April 2020 (GOAL)] - After reviewing newest version of How-To-Build-A-Website course and utilizing CyberDuck CLI to bring website (!https://intothecode01.tech) live, having checked on my continued ownership of my domain.  My images are stored on Photobucket (!https://photobucket.com) and my bandwidth and storage limit are up-to-date.
 
-**Link to work:** [Calculator App](http://www.example.com)
+Day Four [11 April 2020 (GOAL)] - Begin writing new stylesheet exceptions for my Livejournal account and ship them up to Github [!https://github.com/Angelfirenze01/My-Livejournal]
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Day Five [12 April 2020 (GOAL)] - Begin reviewing Github repositories to make sure all are current, especially those related to fandom subjects.
