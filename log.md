@@ -6,6 +6,6 @@
 
 <s>Day Three [10 April 2020 (REVISED GOAL)] - Start Treehouse Club CSS Course on Team Treehouse.</s>
 
-Day Four [11 April 2020 (REVISED GOAL)] - Continue Treehouse Club CSS Course on Team Treehouse.
+<s>Day Four [11 April 2020 (REVISED GOAL)] - Finish Treehouse Club CSS Course on Team Treehouse.</s>
 
-Day Five [12 April 2020 (REVISED GOAL)] - Finish CSS Course on Team Treehouse.
+Day Five [12 April 2020 (REVISED GOAL)] - Start Introduction to HTML and CSS Course on Team Treehouse.
