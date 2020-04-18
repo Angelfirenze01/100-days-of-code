@@ -15,3 +15,5 @@
 <s>Day Seven [14/15 April 2020 (REVISED GOAL)] - Finish review of Command Line, clone Git-Commands to Documents.  Set up Pull Request into main project to share my .gitconfig commands from <a href="https://app.pluralsight.com/library/courses/code-school-mastering-github" target="_blank">Mastering Github</a>, originally on Code School, now on Pluralsight.</s>
 
 <s>Day Eight/Nine [15/16 April 2020 (REVISED GOAL)] - Finish review of Command Line, clone Git-Commands to Documents.  Set up Pull Request into main project to share on Github.
+
+<s>Day Ten [17 April 2020] - Finish Introduction to HTML/CSS review.</s>
