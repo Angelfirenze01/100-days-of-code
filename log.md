@@ -17,3 +17,9 @@
 <s>Day Eight/Nine [15/16 April 2020 (REVISED GOAL)] - Finish review of Command Line, clone Git-Commands to Documents.  Set up Pull Request into main project to share on Github.
 
 <s>Day Ten [17 April 2020] - Finish Introduction to HTML/CSS review.</s>
+
+<s>Day Eleven [18 April 2020] Resolve to be more realistic again and finally finish Introduction to HTML/CSS review. </s>
+
+<s>Day Twelve [19 April 2020] Earn - HTML: The Structural Foundation of Web Pages and Applications Badge on Team Treehouse.</s>
+
+<s>Day Thirteen [20 April 2020] Earn - Make It Beautiful with CSS Badge on Team Treehouse.</s>
